@@ -1,5 +1,5 @@
 # TarkovOCR
-Optical Character Recognition for Escape From Tarkov that reads the item name and uses [Tarkov.dev API](https://tarkov.dev/api/) to lookup price info about the item.
+Optical Character Recognition for Escape From Tarkov that reads the item name and uses [Tarkov.dev API](https://tarkov.dev/api/) to lookup price info about the item. (Use "J" on the magnifying glass in the inspect of an item. Use "K" to quit out the program.)
 
 This is my version of a much more popular and better project [Rat Scanner](https://github.com/RatScanner/RatScanner).
 
